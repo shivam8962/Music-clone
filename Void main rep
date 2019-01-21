@@ -1,0 +1,3 @@
+#iclude<conic.h>
+#include<studio.h>
+void main()
