@@ -1,8 +1,0 @@
-Dependencies used in this Project:-
-
-1)Node.js
-2)Hardhat(Hardhat is an Ethereum development environment for professionals. It facilitates performing frequent tasks, such as running tests, automatically checking code for mistakes or interacting with a smart contract.)
-3)MetaMask(Install in chrome)
-4)React dom (npm i react-router-dom@6)
-5)identicon (npm i identicon.js) =>for identical sign after every change of song.
-6)OpenZeppelin libraray (npm i @openzeppelin/contracts@4.5.0) 
